@@ -279,7 +279,7 @@ main hr {
 footer {
     background-color: rgb(8, 142, 237);
     bottom: 0;
-    position: fixed;
+/*     position: fixed; */
     width: 100%;
    
 }
